@@ -1,3 +1,13 @@
+
+
+![mern blog](https://github.com/fuyaram/MERN-blogs/assets/143484868/5f0abcfc-7e23-47be-914c-7379c4b867bc)
+
+
+![mern blg3](https://github.com/fuyaram/MERN-blogs/assets/143484868/5680529c-79aa-41c8-96fc-88966e97296e)
+
+![mern blog2](https://github.com/fuyaram/MERN-blogs/assets/143484868/ef86c91d-4bd3-48b0-aae2-de479ca9f3d8)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
